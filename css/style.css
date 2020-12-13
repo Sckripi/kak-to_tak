@@ -8485,7 +8485,11 @@ html.boxed body {
 
 .text-primary {
 	color:white;
-	text-shadow: 2px 2px 5px black;
+	text-shadow: 1px 1px 2px black;
+	background-color: rgba(10, 10, 10, 0.157);
+	padding-left: 50px;
+	padding-right: 50px;
+	
 }
 
 /** @section Row spacing */
